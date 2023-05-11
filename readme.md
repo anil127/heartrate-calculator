@@ -40,7 +40,7 @@ If you need to update `npm`, you can make it using `npm`! Cool right? After runn
 
 ## Clone Project
 
-    $ git clone https://github.com/anil127/heartrate-calculator
+    $ git clone https://github.com/anil127/heartrate-calculator.git
     $ cd heartrate-calculator
 
 ## Running the project
